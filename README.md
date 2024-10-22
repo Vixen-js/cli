@@ -5,13 +5,13 @@ This CLI is for Vixen Ecosystem, helps you to create Projects easily.
 ## Usage
 
 ```bash
-pnpm create vixen <project-name>
+pnpm create @vixen-js/vixen <project-name>
 ```
 
 This command Initialize Vixen UI Project with the default template. this project allows you to develop super fast Desktop applications with **Vixen Core** and **CSS** Styling.
 
 ```bash
-pnpm create vixen <project-name> --template vanilla
+pnpm create @vixen-js/vixen <project-name> --template vanilla
 ```
 
 This command allows you to create a new Project with custom oficial templates.

@@ -1,6 +1,6 @@
 {
   "name": "@vixen-js/create-vixen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI Interface for Vixen Ecosystem",
   "main": "dist/main.js",
   "type": "module",
