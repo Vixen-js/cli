@@ -1,5 +1,5 @@
 {
-  "name": "@vixen-js/cli",
+  "name": "@vixen-js/create-cli",
   "version": "0.1.0",
   "description": "CLI Interface for Vixen Ecosystem",
   "main": "dist/main.js",
