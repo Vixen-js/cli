@@ -8,7 +8,9 @@
     "vixen": "dist/main.js"
   },
   "files": [
-    "dist"
+    "dist",
+    "package.json",
+    "README.md"
   ],
   "scripts": {
     "format": "prettier --write .",
