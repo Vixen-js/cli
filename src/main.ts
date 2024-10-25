@@ -8,6 +8,7 @@ const CLI_NAME = " Vixen ";
 
 const templates: Record<string, string> = {
   vanilla: "https://github.com/Vixen-js/template-vanilla-ts",
+  react: "https://github.com/Vixen-js/template-react",
 };
 
 program.version(pkg.version).description("Vixen CLI");

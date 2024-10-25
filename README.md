@@ -19,7 +19,7 @@ This command allows you to create a new Project with custom oficial templates.
 ## Template List
 
 - [vanilla](https://github.com/Vixen-js/template-vanilla-ts)
-- [react](https://github.com/Vixen-js/template-react-ts) (coming soon!)
+- [react](https://github.com/Vixen-js/template-react) 🆕
 
 ## Contributing
 
