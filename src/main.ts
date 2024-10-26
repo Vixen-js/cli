@@ -109,10 +109,6 @@ function createProject(projectName: string, template: string = "vanilla") {
   );
   console.log(
     chalk.bgCyan.bold(CLI_NAME),
-    chalk.magenta("\t2. Start watch server running 'pnpm watch'"),
-  );
-  console.log(
-    chalk.bgCyan.bold(CLI_NAME),
     chalk.magenta("\t2. Start development application running 'pnpm dev'"),
   );
   process.exit(0);
