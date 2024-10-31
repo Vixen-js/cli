@@ -1,6 +1,6 @@
 {
   "name": "@vixen-js/create-vixen",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "CLI Interface for Vixen Ecosystem",
   "main": "dist/main.js",
   "type": "module",
@@ -15,7 +15,7 @@
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint .",
-    "build": "pnpm clean && tsc",
+    "build": "$npm_execpath clean && tsc",
     "clean": "rimraf dist"
   },
   "keywords": [
